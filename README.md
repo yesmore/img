@@ -2,7 +2,7 @@
 
 > 该仓库是CDN加速的github图床，配合PicGo上传图片。
 >
-> [yesmore/photoapi](https://github.com/yesmore/photosapi) 项目已使用此仓库。。
+> [yesmore/photoapi](https://github.com/yesmore/photosapi) 项目已使用此仓库。
 
 图片地址参考：
 `https://cdn.jsdelivr.net/gh/yesmore/img/文件夹/图片.jpg(png) `
