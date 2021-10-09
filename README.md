@@ -1,6 +1,6 @@
 # img
 
-> 该仓库是CDN加速的github图床，配合PicGo上传图片。
+> 该仓库是CDN加速的github图库，配合PicGo上传图片。
 >
 > [yesmore/photoapi](https://github.com/yesmore/photosapi) 项目已使用此仓库。
 
