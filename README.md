@@ -10,3 +10,4 @@
 > `文件夹`对应main分支下的文件夹
 
 例：https://cdn.jsdelivr.net/gh/yesmore/img/imgs/202108221646316.jpg
+> 不建议在公共场合预览
